@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "autoprefixer": "^9",
-    "postcss": "^7",
+    "postcss": "^8",
     "tailwindcss": "2.0.1-compat"
   }
 }
